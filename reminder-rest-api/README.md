@@ -14,7 +14,7 @@ class Reminder {
 ```json
 {
 	id	: 1,
-	text	: "Remind me to schedule MCQ assessment for ther batch #3",
+	text	: "Remind me to ... ",
 	date	: "2023/08/31",
 	remind	: true
 }
