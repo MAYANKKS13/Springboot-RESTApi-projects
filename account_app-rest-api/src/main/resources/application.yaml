@@ -1,0 +1,16 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: account-restapi
+  datasource:
+    url: jdbc:mysql://localhost:3306/accounts_app
+    username: root
+    password: mayanksql
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+
+    hibernate:
+      ddl-auto: update
+
+    database-platform: org.hibernate.dialect.MySQL8Dialect
