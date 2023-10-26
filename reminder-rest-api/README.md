@@ -1,4 +1,4 @@
-# Reminders REST api - Practice challenge
+# Reminders REST api
 
 Create a REST api for the `Reminder` application using spring boot.
 
